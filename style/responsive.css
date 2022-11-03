@@ -1,0 +1,108 @@
+@media screen and (max-width: 1000px) {
+
+    .name{
+        font-size:50px;
+    }
+    .hi{
+        font-size: 60px;
+    }
+    .header{
+        height: 300px;
+    }
+    .summary{
+        font-size: 20px;
+    }
+    .iconC{
+        width:50px;
+        height:50px;
+    }
+    .competitivetext{
+        font-size: 20px;
+    }
+    .content h2{
+        font-size: 20px;
+    }
+    .content p{
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .name{
+        font-size:40px;
+    }
+    .hi{
+        font-size: 50px;
+    }
+    .summary{
+        font-size: 15px;
+        margin-right: 10%;
+    }
+    .tabs{
+        padding: 10px;
+        font-size: 10px;
+    }
+    .date-left{
+        font-size: 15px;
+      }
+    .date-right{
+        font-size: 15px;
+    }
+    .content h2{
+        font-size: 10px;
+    }
+    .content p{
+        font-size: 8px;
+    }
+    .content{
+        padding:5px;
+    }
+    .left .content{
+        margin-left: 65px;
+      }
+      .right .content{
+        margin-right: 60px;
+      }
+      .competitive-padding{
+         padding:0px
+      }
+      .footer{
+          font-size:10px;
+      }
+}
+
+@media screen and (max-width:400px){
+    .name{
+        font-size:30px;
+    }
+    .hi{
+        font-size: 40px;
+    }
+    .tabs{
+        padding: 5px;
+    }
+    .iconB{
+        width: 50px;
+        height: 50px;
+    }
+    .competitivetext{
+        font-size: 10px;
+    }
+    .date-left{
+        font-size: 12px;
+        margin-top: 52px;
+        margin-left: 60%;
+      }
+    .date-right{
+        font-size: 12px;
+        margin-top: 52px;
+        right:59%;
+    }
+    #snackbar {
+        bottom:60px;
+        margin-left: -160px;
+    }
+    .img-prof{
+        margin-left:50px;
+    }
+}
